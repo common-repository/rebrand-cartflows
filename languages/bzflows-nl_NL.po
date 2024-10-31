@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-14 16:21+0530\n"
+"PO-Revision-Date: 2021-01-14 16:48+0530\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl\n"
+
+#: cartflows-settings.php:180 cartflows-settings.php:186
+#: cartflows-settings.php:187
+msgid "Rebrand"
+msgstr "Rebranding"
+
+#: cartflows-settings.php:274 cartflows-settings.php:284
+msgid "Hide the \""
+msgstr "Verstop de \""
+
+#: cartflows-settings.php:274 cartflows-settings.php:278
+#: cartflows-settings.php:284
+msgid " - Rebrand\" menu item?"
+msgstr " - Rebranding \"menu-item?"
+
+#: cartflows-settings.php:278
+msgid "Show the \""
+msgstr "Toon de \""
+
+#: admin/cartflows-settings-rebranding.php:2
+msgid "Rebrand Cartflows"
+msgstr "Rebrand Cartflows"
+
+#: admin/cartflows-settings-rebranding.php:12
+#: admin/cartflows-settings-rebranding.php:20
+msgid "Branding"
+msgstr "Branding"
+
+#: admin/cartflows-settings-rebranding.php:13
+msgid "Settings"
+msgstr "Instellingen"
+
+#: admin/cartflows-settings-rebranding.php:21
+msgid "You can white label the plugin as per your requirement."
+msgstr "U kunt de plug-in white labelen volgens uw vereisten."
+
+#: admin/cartflows-settings-rebranding.php:26
+msgid "Plugin Name"
+msgstr "Plug-in naam"
+
+#: admin/cartflows-settings-rebranding.php:35
+msgid "Plugin Description"
+msgstr "Plugin Beschrijving"
+
+#: admin/cartflows-settings-rebranding.php:43
+msgid "Developer / Agency"
+msgstr "Ontwikkelaar / bureau"
+
+#: admin/cartflows-settings-rebranding.php:51
+msgid "Website URL"
+msgstr "Website URL"
+
+#: admin/cartflows-settings-rebranding.php:60
+msgid "Primary Color"
+msgstr "Primaire kleur"
+
+#: admin/cartflows-settings-rebranding.php:70
+msgid "Menu Icon"
+msgstr "Menu Icoon"
+
+#: admin/cartflows-settings-rebranding.php:80
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/cartflows-settings-rebranding.php:99
+#: admin/cartflows-settings-rebranding.php:127
+msgid "Upload"
+msgstr "Uploaden"
+
+#: admin/cartflows-settings-rebranding.php:108
+msgid "Small Logo"
+msgstr "Klein logo"
+
+#: admin/cartflows-settings-rebranding.php:145
+msgid "Plugin Title"
+msgstr "Plug-in titel"
+
+#: admin/cartflows-settings-rebranding.php:154
+msgid "Flows Library - Text"
+msgstr "Flows Library - Tekst"
+
+#: admin/cartflows-settings-rebranding.php:163
+msgid "Steps Library - Text"
+msgstr "Stappenbibliotheek - Tekst"
+
+#: admin/cartflows-settings-rebranding.php:172
+msgid "Hide Getting Started Video"
+msgstr "Verberg Aan de slag-video"
+
+#: admin/cartflows-settings-rebranding.php:181
+msgid "Hide Sidebar"
+msgstr "Verberg de zijbalk"
+
+#: admin/cartflows-settings-rebranding.php:190
+msgid "Remove \"Pro\" from Templates"
+msgstr "Verwijder \"Pro\" uit sjablonen"
+
+#: admin/cartflows-settings-rebranding.php:199
+msgid "Remove \"Learn How\" Link"
+msgstr "Verwijder de \"Leer hoe\" -link"
+
+#: admin/cartflows-settings-rebranding.php:223
+msgid "Save Settings"
+msgstr "Instellingen opslaan"
